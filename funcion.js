@@ -281,7 +281,25 @@ function buscar() {
         "el alfa ft hades66 lil naay  luis brown la patrulla":"./Lil Naay/La patrulla.html",
         "la patrulla":"./Lil Naay/La patrulla.html",
 
+        "braulio fogon ft amenazzy juguete":"./braulio fogon/Juguete.html",
+        
+        "braulio fogon tu no eres calle":"./braulio fogon/Tu no eres calle.html",
+        
+        "rochy rd no me hable de calle":"./Rochy RD/No Me hable de calle.html",
+        
+        "rochy rd ft el virus el preso ay bobo mami":"./Rochy RD/Ay Bobo Mami.html",
+        
+        "rochy rd ft el piky el bloke":"./Rochy RD/El Bloke.html",
+        
+        "rochy rd ft el shady prendio":"./Rochy RD/Prendio.html",
+        
+        "rochy rd el sistema cambio":"./Rochy RD/El Sistema Cambio.html",
+ 
+        "lil naay la tendencia":"./Lil Naay/La Tendencia.html",
 
+        "lil naay baby supreme":"./Lil Naay/Baby Supreme.html",
+
+        "lil naay ft huan62 otro sistema":"./Lil Naay/Otro Sistema.html",
     };
 
     if (paginas[busqueda]) {
