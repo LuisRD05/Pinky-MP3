@@ -16,6 +16,7 @@ function buscar() {
         "jon z":"./Jon Z/Jon Z.html",
         "lil naay":"./Lil Naay/Lil Naay.html",
         "yilin la mas viral":"./Yailin/Yailin.html",
+        "huan62":"./Huan62/Huan62.html",
 
          // De aqui hacia debajo agregare las musicas
 
@@ -300,6 +301,27 @@ function buscar() {
         "lil naay baby supreme":"./Lil Naay/Baby Supreme.html",
 
         "lil naay ft huan62 otro sistema":"./Lil Naay/Otro Sistema.html",
+
+        "huan62 de la calle":"./Huan62/De La Calle.html",
+
+        "huan62 no pueden":"./Huan62/No Pueden.html",
+
+        "huan62 solo":"./Huan62/Solo.html",
+
+        "huan62 ese tt":"./Huan62/Ese TT.html",
+
+        "huan62 woo":"./Huan62/Woo.html",
+
+        "huan62 bala":"./Huan62/Bala.html",
+
+        "huan62 bajale 2":"./Huan62/Bajale 2.html",
+
+        "huan62 abayarde":"./Huan62/Abayarde.html",
+
+        "huan62 natural":"./Huan62/Natural.html",
+
+        "lil naay que arrebate":"./Lil Naay/Arrebate.html",
+        "yaisel lm que arrebate":"./Lil Naay/Arrebate.html",
     };
 
     if (paginas[busqueda]) {
