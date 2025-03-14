@@ -289,6 +289,10 @@ hr {
     .logo img{
         margin-bottom: -20px;
     }
+      .slider-container .slider .slide img{
+        height: 300px;
+        width: 300px;
+    }
 
     .artistas h2 {
         font-size: 2rem;
