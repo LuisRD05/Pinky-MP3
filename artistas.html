@@ -190,10 +190,10 @@
             color: #FF5722; /* Color naranja brillante en hover */
         }
 
-        /* Estilo responsive */
-        @media (max-width: 768px) {
+       @media (max-width: 768px) {
             header h1.pinky {
                 font-size: 2rem;
+                display: none;
             }
 
             .artistas h2 {
@@ -202,6 +202,10 @@
 
             .artistas-lista {
                 grid-template-columns: repeat(2, 1fr); /* 2 por fila en pantallas más pequeñas */
+            }
+
+            .logo img{
+                margin-bottom: -20px;
             }
 
             .artista p {
@@ -219,9 +223,7 @@
             nav.menu ul li a {
                 font-size: 1rem;
             }
-        }
 
-        @media (max-width: 480px) {
             header h1.pinky {
                 font-size: 1.5rem;
             }
