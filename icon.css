@@ -113,7 +113,15 @@ li {
   opacity: 1;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
+  .logo img {
+    width: 100px;
+  }
+
+  .logo-tradicion img {
+    max-width: 400px; 
+  }
+
   .logo img {
     width: 120px;
   }
@@ -129,16 +137,6 @@ li {
   header h1.pinky {
     font-size: 1.8rem;
   }
-}
-
-@media (max-width: 768px) {
-  .logo img {
-    width: 100px;
-  }
-
-  .logo-tradicion img {
-    max-width: 400px; 
-  }
 
   .icon a {
     font-size: 30px;
@@ -147,9 +145,6 @@ li {
   header h1.pinky {
     font-size: 1.5rem;
   }
-}
-
-@media (max-width: 480px) {
   .logo img {
     width: 80px;
   }
@@ -166,3 +161,4 @@ li {
     font-size: 1.2rem;
   }
 }
+
