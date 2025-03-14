@@ -209,9 +209,10 @@
             color: #FF5722;
         }
 
-        @media (max-width: 768px) {
+          @media (max-width: 768px) {
             header h1.pinky {
                 font-size: 2rem;
+                display: none;
             }
 
             .artistas h2 {
@@ -226,6 +227,10 @@
                 font-size: 1rem;
             }
 
+            .logo img{
+                margin-bottom: -20px;
+            }
+
             header .buscar input {
                 width: 200px;
             }
@@ -237,9 +242,7 @@
             nav.menu ul li a {
                 font-size: 1rem;
             }
-        }
 
-        @media (max-width: 480px) {
             header h1.pinky {
                 font-size: 1.5rem;
             }
@@ -288,10 +291,10 @@
             </div>
             <h1 class="pinky">Pinky - MP3 😈</h1>
             
-            <div class="buscar">
-                <input type="text" id="buscar" placeholder="Buscar Albums">
+           <!--<div class="buscar">
+                <input type="text" id="buscar" placeholder="Buscar">
                 <button onclick="buscar()"><i class="fa-solid fa-magnifying-glass"></i></button>
-            </div>
+            </div>-->
         </header>
 
         <main>
