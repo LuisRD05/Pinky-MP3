@@ -283,6 +283,11 @@ hr {
 @media (max-width: 768px) {
     header h1.pinky {
         font-size: 2rem;
+        display: none;
+    }
+
+    .logo img{
+        margin-bottom: -20px;
     }
 
     .artistas h2 {
@@ -311,12 +316,6 @@ hr {
 
     nav.menu ul li a {
         font-size: 1rem;
-    }
-}
-
-@media (max-width: 480px) {
-    header h1.pinky {
-        font-size: 1.5rem;
     }
 
     .artistas h2 {
